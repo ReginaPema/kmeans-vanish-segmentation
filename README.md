@@ -52,8 +52,8 @@ Este proyecto segmenta los 28,377 registros de Vanish en clusters significativos
 | Performance | `var_pct_mean`, `above_avg_ratio`, `high_value_ratio` |
 
 ### <img src="https://img.icons8.com/?size=25&id=eYYTdLLHOr9O&format=png&color=000000" align="center"/> Standardization / Estandarización
-- Applied `StandardScaler` — essential for K-Means (distance-based)
-- Aplicado `StandardScaler` — esencial para K-Means (basado en distancias)
+- Applied `StandardScaler`. Essential for K-Means (distance-based)
+- Aplicado `StandardScaler`. Esencial para K-Means (basado en distancias)
 
 ### <img src="https://img.icons8.com/?size=25&id=m9l0TYn8mjwN&format=png&color=000000" align="center"/> Optimal K Selection / Selección del K óptimo
 
@@ -71,13 +71,13 @@ Used 4 validation metrics simultaneously to select k=4:
 KMeans(
     n_clusters = 4,
     init       = 'k-means++',  # intelligent initialization
-    n_init     = 50,            # 50 random starts — avoids local minima
+    n_init     = 50,           # 50 random starts → avoids local minima
     max_iter   = 500
 )
 ```
 
 ### <img src="https://img.icons8.com/?size=25&id=433QkkKdmU3P&format=png&color=000000" align="center"/> Visualization / Visualización
-- PCA 2D scatter — clusters in reduced dimensionality space
+- PCA 2D scatter → clusters in reduced dimensionality space
 - Heatmap of cluster profiles
 - Boxplots by cluster
 - Market share analysis: Vanish vs total market
@@ -90,10 +90,10 @@ KMeans(
 
 | Cluster | Name / Nombre | Profile / Perfil |
 |---|---|---|
-| 0 | **Alto Rendimiento** | Highest sales, only cluster with positive var_pct — strategic priority |
-| 1 | **Presencia Marginal** | Minimum sales, few active weeks — candidates for repositioning |
-| 2 | **Premium Alto Valor** | Highest price, 99% high-value weeks — premium positioning |
-| 3 | **Mercado Masivo** | Low price, highest volume & turnover — volume driver |
+| 0 | **Alto Rendimiento** | Highest sales, only cluster with positive var_pct → strategic priority |
+| 1 | **Presencia Marginal** | Minimum sales, few active weeks → candidates for repositioning |
+| 2 | **Premium Alto Valor** | Highest price, 99% high-value weeks → premium positioning |
+| 3 | **Mercado Masivo** | Low price, highest volume & turnover → volume driver |
 
 ### Strategic Insights / Recomendaciones Estratégicas
 
@@ -103,14 +103,13 @@ KMeans(
 - Cluster 3 (Masivo) ensures broad market presence through volume
 
 **Opportunities / Oportunidades:**
-- Cluster 1 (Marginal): investigate low-performing product-region
-  combinations — reposition or discontinue
+- Cluster 1 (Marginal): investigate low-performing product-region combinations → reposition or discontinue
 - Cross-selling from Cluster 3 to Cluster 2 in high-potential regions
 - Replicate Cluster 0 success patterns in underperforming areas
 
 ---
 
-## <img src="https://img.icons8.com/?size=40&id=PhymLYNNjf3I&format=png&color=000000" align="center"/> Repository Structure / Estructura
+## <img src="https://img.icons8.com/?size=40&id=PhymLYNNjf3I&format=png&color=000000" align="center"/> Repository Structure / Estructura del Repositorio
 
     kmeans-vanish-segmentation/
     ├── notebook/
