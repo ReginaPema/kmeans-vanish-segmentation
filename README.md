@@ -1,5 +1,3 @@
-# kmeans-vanish-segmentation
-
 # <img src="https://img.icons8.com/?size=50&id=wBVr33b_6fzI&format=png&color=000000" align="center"/> K-Means Clustering: Vanish Market Segmentation
 ### Segmentación de Mercado con K-Means de Marca Vanish
 
