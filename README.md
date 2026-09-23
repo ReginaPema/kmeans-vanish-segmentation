@@ -11,8 +11,7 @@
 
 **EN** · This project continues the [ETL pipeline](https://github.com/ReginaPema/etl-sales-data-cleaning) and [EDA](https://github.com/ReginaPema/eda-retail-sales-analysis) of the same retail sales dataset. It segments **Vanish**, the second brand of the portfolio by sales (19.6% of total revenue), into internal clusters by product-region combination (23,626 weekly records → 402 aggregated combinations), to understand which parts of the brand's footprint actually drive its market position.
 
-**ES** · Este proyecto continúa el [pipeline ETL](https://github.com/ReginaPema/etl-sales-data-cleaning) y el [EDA](https://github.com/ReginaPema/eda-sales-analysis) del mismo dataset de ventas retail. Segmenta a **Vanish**, la segunda marca del portafolio por ventas (19.6% del ingreso total), en
-clusters internos por combinación producto-región (23,626 registros semanales → 402 combinaciones agregadas), para entender qué partes de la presencia de la marca realmente sostienen su posición de mercado.
+**ES** · Este proyecto continúa el [pipeline ETL](https://github.com/ReginaPema/etl-sales-data-cleaning) y el [EDA](https://github.com/ReginaPema/eda-retail-sales-analysis) del mismo dataset de ventas retail. Segmenta a **Vanish**, la segunda marca del portafolio por ventas (19.6% del ingreso total), en clusters internos por combinación producto-región (23,626 registros semanales → 402 combinaciones agregadas), para entender qué partes de la presencia de la marca realmente sostienen su posición de mercado.
 
 ---
 
