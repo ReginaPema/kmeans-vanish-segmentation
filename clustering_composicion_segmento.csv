@@ -1,0 +1,16 @@
+﻿cluster,cluster_nombre,segment,n_registros,ventas_totales,precio_medio,rotacion_media
+0,Presencia Marginal,Bar,17,50.163,18.641,0.004
+0,Presencia Marginal,Liquid & Gel,51,822.178,35.992,0.015
+0,Presencia Marginal,Powder,61,869.506,28.528,0.011
+1,Volumen Diversificado,Bar,13,22242.842,16.732,1.295
+1,Volumen Diversificado,Liquid & Gel,22,41397.912,26.399,1.018
+1,Volumen Diversificado,Powder,19,66093.222,18.717,2.29
+2,Nicho Premium,Liquid & Gel,68,117040.091,115.904,0.175
+2,Nicho Premium,Powder,61,92149.018,145.329,0.13
+2,Nicho Premium,Pretreat,11,21253.979,91.879,0.261
+3,Motor de Ingresos,Liquid & Gel,31,308931.707,93.533,1.708
+3,Motor de Ingresos,Powder,25,188152.096,97.8,1.029
+3,Motor de Ingresos,Pretreat,1,5868.905,106.786,0.688
+4,Alta Rotación,Bar,12,93234.853,12.4,7.838
+4,Alta Rotación,Liquid & Gel,9,118613.267,22.871,7.265
+4,Alta Rotación,Powder,1,7425.118,23.261,3.982
