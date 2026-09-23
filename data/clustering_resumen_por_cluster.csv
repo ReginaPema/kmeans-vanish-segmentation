@@ -1,0 +1,6 @@
+﻿cluster,cluster_nombre,n_registros,ventas_totales,ventas_promedio,precio_promedio,unidades_totales,rotacion_semanal,pct_alto_valor,pct_alta_rotacion,semanas_promedio,pct_ventas_total
+0,Presencia Marginal,129,1741.847,13.503,30.176,76.715,0.012,0.262,0.122,23.527,0.16
+1,Volumen Diversificado,54,129733.976,2402.481,21.369,6415.587,1.532,0.096,0.965,75.556,11.97
+2,Nicho Premium,140,230443.088,1646.022,126.837,1779.673,0.162,0.991,0.183,72.964,21.26
+3,Motor de Ingresos,57,502952.708,8823.732,95.637,6321.404,1.392,0.98,0.782,79.579,46.39
+4,Alta Rotación,22,219273.238,9966.965,17.177,13073.107,7.428,0.0,1.0,80.0,20.23

@@ -1,0 +1,31 @@
+﻿cluster,cluster_nombre,region,ventas_vanish_cluster,ventas_mercado_reg,share_pct
+0,Presencia Marginal,Area 1,183.886,714249.979,0.03
+0,Presencia Marginal,Area 2,318.526,1188796.15,0.03
+0,Presencia Marginal,Area 3,393.293,803655.337,0.05
+0,Presencia Marginal,Area 4,291.92,677435.998,0.04
+0,Presencia Marginal,Area 5,289.102,1153335.538,0.03
+0,Presencia Marginal,Area 6,265.12,983957.571,0.03
+1,Volumen Diversificado,Area 1,26112.914,714249.979,3.66
+1,Volumen Diversificado,Area 2,14119.955999999998,1188796.15,1.19
+1,Volumen Diversificado,Area 3,20638.926,803655.337,2.57
+1,Volumen Diversificado,Area 4,18677.2,677435.998,2.76
+1,Volumen Diversificado,Area 5,23635.799,1153335.538,2.05
+1,Volumen Diversificado,Area 6,26549.180999999997,983957.571,2.7
+2,Nicho Premium,Area 1,41450.914,714249.979,5.8
+2,Nicho Premium,Area 2,53762.726,1188796.15,4.52
+2,Nicho Premium,Area 3,34868.514,803655.337,4.34
+2,Nicho Premium,Area 4,45894.532999999996,677435.998,6.77
+2,Nicho Premium,Area 5,14843.192,1153335.538,1.29
+2,Nicho Premium,Area 6,39623.209,983957.571,4.03
+3,Motor de Ingresos,Area 1,34006.697,714249.979,4.76
+3,Motor de Ingresos,Area 2,86509.072,1188796.15,7.28
+3,Motor de Ingresos,Area 3,80862.022,803655.337,10.06
+3,Motor de Ingresos,Area 4,37985.941999999995,677435.998,5.61
+3,Motor de Ingresos,Area 5,213421.296,1153335.538,18.5
+3,Motor de Ingresos,Area 6,50167.679,983957.571,5.1
+4,Alta Rotación,Area 1,10632.521,714249.979,1.49
+4,Alta Rotación,Area 2,52777.070999999996,1188796.15,4.44
+4,Alta Rotación,Area 3,38162.997,803655.337,4.75
+4,Alta Rotación,Area 4,31772.082000000002,677435.998,4.69
+4,Alta Rotación,Area 5,57745.587999999996,1153335.538,5.01
+4,Alta Rotación,Area 6,28182.979,983957.571,2.86

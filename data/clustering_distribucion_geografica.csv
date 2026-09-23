@@ -1,0 +1,31 @@
+﻿cluster,cluster_nombre,region,n_registros,ventas_totales,precio_medio
+0,Presencia Marginal,Area 1,26,183.886,31.18
+0,Presencia Marginal,Area 2,22,318.526,25.974
+0,Presencia Marginal,Area 3,20,393.293,30.4
+0,Presencia Marginal,Area 4,21,291.92,33.561
+0,Presencia Marginal,Area 5,18,289.102,33.023
+0,Presencia Marginal,Area 6,22,265.12,27.428
+1,Volumen Diversificado,Area 1,10,26112.914,22.393
+1,Volumen Diversificado,Area 2,9,14119.956,20.425
+1,Volumen Diversificado,Area 3,8,20638.926,22.53
+1,Volumen Diversificado,Area 4,9,18677.2,22.914
+1,Volumen Diversificado,Area 5,8,23635.799,18.002
+1,Volumen Diversificado,Area 6,10,26549.181,21.568
+2,Nicho Premium,Area 1,26,41450.914,130.818
+2,Nicho Premium,Area 2,25,53762.726,126.767
+2,Nicho Premium,Area 3,22,34868.514,128.84
+2,Nicho Premium,Area 4,26,45894.533,127.47
+2,Nicho Premium,Area 5,15,14843.192,107.37
+2,Nicho Premium,Area 6,26,39623.209,131.827
+3,Motor de Ingresos,Area 1,5,34006.697,69.61
+3,Motor de Ingresos,Area 2,10,86509.072,74.47
+3,Motor de Ingresos,Area 3,10,80862.022,100.483
+3,Motor de Ingresos,Area 4,5,37985.942,91.681
+3,Motor de Ingresos,Area 5,19,213421.296,120.729
+3,Motor de Ingresos,Area 6,8,50167.679,75.183
+4,Alta Rotación,Area 1,2,10632.521,12.865
+4,Alta Rotación,Area 2,5,52777.071,18.803
+4,Alta Rotación,Area 3,4,38162.997,17.547
+4,Alta Rotación,Area 4,4,31772.082,17.285
+4,Alta Rotación,Area 5,4,57745.588,17.868
+4,Alta Rotación,Area 6,3,28182.979,15.784

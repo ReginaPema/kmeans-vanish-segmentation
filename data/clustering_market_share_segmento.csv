@@ -1,0 +1,16 @@
+﻿cluster,cluster_nombre,segment,ventas_vanish_cluster,ventas_mercado_seg,share_pct
+0,Presencia Marginal,Bar,50.163000000000004,121769.67,0.04
+0,Presencia Marginal,Liquid & Gel,822.178,727028.128,0.11
+0,Presencia Marginal,Powder,869.506,517510.888,0.17
+1,Volumen Diversificado,Bar,22242.842,121769.67,18.27
+1,Volumen Diversificado,Liquid & Gel,41397.912,727028.128,5.69
+1,Volumen Diversificado,Powder,66093.222,517510.888,12.77
+2,Nicho Premium,Liquid & Gel,117040.091,727028.128,16.1
+2,Nicho Premium,Powder,92149.018,517510.888,17.81
+2,Nicho Premium,Pretreat,21253.979,316001.115,6.73
+3,Motor de Ingresos,Liquid & Gel,308931.707,727028.128,42.49
+3,Motor de Ingresos,Powder,188152.096,517510.888,36.36
+3,Motor de Ingresos,Pretreat,5868.905,316001.115,1.86
+4,Alta Rotación,Bar,93234.853,121769.67,76.57
+4,Alta Rotación,Liquid & Gel,118613.26699999999,727028.128,16.31
+4,Alta Rotación,Powder,7425.118,517510.888,1.43
